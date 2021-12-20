@@ -23,8 +23,8 @@ namespace DocumentPlagiarismChecker.Comparators.DocumentWordCounter
     internal class Comparator: Core.BaseComparator<Document>
     {  
         /// <summary>
-        /// Creates a new instance for the ComparatorYEYEYEYEYEYEYEYEYEYEYE EUROPA LÍ.
-        /// </summary>
+        /// Creates a new instance for the Comparato.
+        /// </summary>asasasasasasasassasasasasasasasasasa
         /// <param name="fileLeftPath">The left side file's path.</param>
         /// <param name="fileRightPath">The right side file's path.</param>
         /// <param name="settings">The settings instance that will use the comparator.</param>
