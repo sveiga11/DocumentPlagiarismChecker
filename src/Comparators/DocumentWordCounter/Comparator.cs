@@ -15,14 +15,14 @@ namespace DocumentPlagiarismChecker.Comparators.DocumentWordCounter
     /// <summary>
     /// The Word Counter Comparator reads a pair of files and counts how many words and how many times appear on each file, and then calculates
     /// how many of those appearences matches between documents. So, two documents with the same amount of the same words can be a copy with
-    /// a high level of provability. Hola Soy samu, acabo de entregar un exmen en blanco xd RUFINOS UNITED LOLOLOLOLOLO 
+    /// a high level of provability. Hola Soy samu, acabo de entregar un exmen en blanco xd
     /// </summary>
     /// <typeparam name="Document"></typeparam>
     internal class Comparator: Core.BaseComparator<Document>
     {  
         /// <summary>
         /// Creates a new instance for the Comparato.
-        /// </summary>
+        /// </summary>asasasasasasasassasasasasasasasasasa
         /// <param name="fileLeftPath">The left side file's path.</param>
         /// <param name="fileRightPath">The right side file's path.</param>
         /// <param name="settings">The settings instance that will use the comparator.</param>
